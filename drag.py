@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import streamlit as st
-import plotly.express as px
+
 from pandasai import Agent
 from io import BytesIO
 from openpyxl import Workbook
